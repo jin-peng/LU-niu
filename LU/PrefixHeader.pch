@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  sounderfor_iOS
+//
+//  Created by JinPeng on 16/8/24.
+//  Copyright © 2016年 JinPeng. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+#import <AFNetworking/AFNetworking.h>
+#import "UIImage+Resize.h"
+#import "JPMyControl.h"
+#import "CNManager.h"
+#import "HudManager.h"
+#import "Helpers.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "NewSettingsManager.h"
+#import "SettingsManager.h"
+#import "CHConfig.h"
+//#import "ARVCUtils.h"
+//#import "VideoDiy.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */

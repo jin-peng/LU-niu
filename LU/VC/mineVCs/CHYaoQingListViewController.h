@@ -1,0 +1,17 @@
+//
+//  CHYaoQingListViewController.h
+//  LU
+//
+//  Created by peng jin on 2019/7/22.
+//  Copyright © 2019 JinPeng. All rights reserved.
+//
+
+#import "BaseViewController.h"
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface CHYaoQingListViewController : BaseViewController
+
+@end
+
+NS_ASSUME_NONNULL_END

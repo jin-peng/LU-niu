@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>上传彩铃</key>
+	<string>Carica una suoneria</string>
+	<key>个人主页</key>
+	<string>Pagina del candidato/a</string>
+	<key>个人简介</key>
+	<string>Profilo del candidato/a</string>
+	<key>中意频道</key>
+	<string>Canale Cinitalia</string>
+	<key>中文国际</key>
+	<string>CCTV4</string>
+	<key>为TA投上一票吧</key>
+	<string>Vota per lui/lei!</string>
+	<key>互动消息</key>
+	<string>Messaggi privati</string>
+	<key>人气菜品</key>
+	<string>Piatti preferiti</string>
+	<key>今日推荐</key>
+	<string>In evidenza oggi</string>
+	<key>使馆留学</key>
+	<string>Ambasciate/Consolati</string>
+	<key>公共消息</key>
+	<string>Messaggi pubblici</string>
+	<key>关于餐厅</key>
+	<string>Sul ristorante</string>
+	<key>写评论</key>
+	<string>Scrivi un commento</string>
+	<key>咪咕乐榜</key>
+	<string>Classifica di Migu</string>
+	<key>咪咕乐访</key>
+	<string>Interviste di Migu</string>
+	<key>回复</key>
+	<string>Rispondi</string>
+	<key>回放</key>
+	<string>Riproduci di nuovo il video</string>
+	<key>图文详情</key>
+	<string>L&apos;intera pagina con immagini</string>
+	<key>当前优惠</key>
+	<string>Saldo</string>
+	<key>当前节目</key>
+	<string>Programma attualmente in onda</string>
+	<key>我的</key>
+	<string>Io</string>
+	<key>我的消息</key>
+	<string>Miei messaggi</string>
+	<key>投TA一票</key>
+	<string>Vota</string>
+	<key>投票</key>
+	<string>Votazione</string>
+	<key>投票时段</key>
+	<string>Durata della votazione</string>
+	<key>投票规则</key>
+	<string>Regolamento della votazione</string>
+	<key>推介新闻</key>
+	<string>Notizie in evidenza</string>
+	<key>推荐</key>
+	<string>In evidenza</string>
+	<key>新闻评论</key>
+	<string>Visualizza i commenti</string>
+	<key>更多</key>
+	<string>Altro</string>
+	<key>条评论</key>
+	<string>commenti</string>
+	<key>查看全部</key>
+	<string>Visualizza tutto</string>
+	<key>活动介绍</key>
+	<string>Presentazione dell&apos;evento</string>
+	<key>活动规则</key>
+	<string>Regolamento dell&apos;evento</string>
+	<key>点击查看并修改个人资料</key>
+	<string>Cliccare per vedere e modificare il profilo personale</string>
+	<key>热评</key>
+	<string>Migliori commenti</string>
+	<key>热辣新店</key>
+	<string>Nuovi ristoranti</string>
+	<key>直播中</key>
+	<string>Live</string>
+	<key>相关阅读</key>
+	<string>Letture correlate</string>
+	<key>票</key>
+	<string>Voti</string>
+	<key>票数:</key>
+	<string>Numero di voti:</string>
+	<key>精选餐厅</key>
+	<string>Ristoranti selezionati</string>
+	<key>编号</key>
+	<string>Numero</string>
+	<key>美食</key>
+	<string>Gastronomia</string>
+	<key>美食地图</key>
+	<string>Mappa gastronomica</string>
+	<key>美食彩铃</key>
+	<string>Suonerie gastronomiche</string>
+	<key>美食资讯</key>
+	<string>Informazioni gastronomiche</string>
+	<key>节目</key>
+	<string>Programma</string>
+	<key>视频彩铃</key>
+	<string>Suonerie video</string>
+	<key>评论已到底</key>
+	<string>Fine dei commenti</string>
+	<key>赞</key>
+	<string>Mi piace</string>
+	<key>随身翻译</key>
+	<string>Interprete tascabile</string>
+	<key>音乐</key>
+	<string>Musica</string>
+	<key>软件更新</key>
+	<string>Aggiornamento</string>
+	<key>关于我们</key>
+	<string>Chi siamo</string>
+	<key>版本号</key>
+	<string>Versione</string>
+	<key>关于中意客户端</key>
+	<string>Informazioni su CINITALIA</string>
+	<key>首页</key>
+	<string>Home</string>
+	<key>留学指南</key>
+	<string>Cinese in pillole</string>
+	<key>使馆/签证</key>
+	<string>Ambasciate-Consolati-Visti</string>
+	<key>中意美食节</key>
+	<string>Festival Gastronomico Cinitalia</string>
+	<key>魅力之旅</key>
+	<string>Viaggiare in Cina</string>
+	<key>设置</key>
+	<string>Impostazioni</string>
+	<key>选择语言</key>
+	<string>Cambia lingua</string>
+	<key>我的收藏</key>
+	<string>Preferiti</string>
+	<key>清除缓存</key>
+	<string>Elimina la cache</string>
+	<key>是</key>
+	<string>Sì</string>
+	<key>否</key>
+	<string>No</string>
+	<key>是否加载本期杂志？</key>
+	<string>Caricare questo numero?</string>
+	<key>收藏成功</key>
+	<string>Aggiunto ai Preferiti</string>
+	<key>收藏夹为空</key>
+	<string>Preferiti è vuoto.</string>
+	<key>是否从收藏中删除此内容？</key>
+	<string>Vuoi eliminarlo dai Preferiti?</string>
+	<key>取消收藏成功</key>
+	<string>Eliminato dai Preferiti</string>
+	<key>提示</key>
+	<string>Nota</string>
+	<key>确定切换语言吗？</key>
+	<string>Cambia lingua?</string>
+	<key>确定清除缓存吗？</key>
+	<string>Conferma svuotamento cache?</string>
+	<key>登录</key>
+	<string>Login</string>
+	<key>确定退出登录吗？</key>
+	<string>Log out?</string>
+	<key>登录成功</key>
+	<string>Login riuscito</string>
+	<key>加载中…</key>
+	<string>In carico…</string>
+	<key>退出后不会删除您收藏的任何数据</key>
+	<string>Non verrà eliminato nessun dato dai Preferiti</string>
+	<key>分享到...</key>
+	<string>Condividi via...</string>
+	<key>留学指南图标</key>
+	<string>学中文</string>
+	<key>清除缓存中...</key>
+	<string>Pulizione in corso...</string>
+	<key>清除缓存完成</key>
+	<string>La cache è stata pulita</string>
+	<key>刚刚</key>
+	<string>Poco fa</string>
+	<key>登录失败</key>
+	<string>Login fallito</string>
+	<key>登录中...</key>
+	<string>Login in corso...</string>
+	<key>分享失败</key>
+	<string>Condivisione fallita</string>
+	<key>分享取消</key>
+	<string>Condivisione cancellata</string>
+	<key>分享成功</key>
+	<string>Condivisione riuscita</string>
+	<key>退出登录?</key>
+	<string>Log out?</string>
+	<key>微信</key>
+	<string>WeChat</string>
+	<key>新浪微博</key>
+	<string>Sina Weibo</string>
+	<key>欢迎\n您可以通过以下账号登录</key>
+	<string>Benvenuto\nIscriviti con</string>
+	<key>已退出登录</key>
+	<string>Già disconnesso</string>
+	<key>退出登录</key>
+	<string>Log out</string>
+	<key>取消</key>
+	<string>Annulla</string>
+	<key>中意企业家委员会</key>
+	<string>Business Forum Italia-Cina</string>
+	<key>搜索</key>
+	<string>Cerca</string>
+	<key>抱歉！没有您要找的内容！</key>
+	<string>Scusate! Nessun contenuto trovato!</string>
+	<key>热门推荐</key>
+	<string>Hot topics</string>
+	<key>国际台专区</key>
+	<string>Area delle APP di Radio Cina Internazionale</string>
+	<key>销户</key>
+	<string>Cancella account</string>
+	<key>点赞</key>
+	<string>Mi piace</string>
+	<key>是否清除此用户全部信息？</key>
+	<string>Sicuro di eliminare tutte le informazioni dell&apos;utente?</string>
+	<key>一旦删除无法恢复</key>
+	<string>L&apos;eliminazione è irreversibile</string>
+	<key>输入关键字</key>
+	<string>Inserisci le parole chiave</string>
+	<key>相关内容</key>
+	<string>Contenuti correlati</string>
+	<key>清空搜索历史</key>
+	<string>Svuota la storia di ricerca</string>
+	<key>是否保存图片到手机？</key>
+	<string>Salvare la foto nel cellulare?</string>
+	<key>销户成功</key>
+	<string>Cancellazione riuscita dell&apos;account</string>
+	<key>销户失败</key>
+	<string>Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+Cancellazione account fallita
+</string>
+	<key>点赞成功</key>
+	<string>&quot;Mi piace&quot; riuscito</string>
+	<key>点赞失败</key>
+	<string>&quot;Mi piace&quot; fallito</string>
+	<key>保存图片</key>
+	<string>Salva immagine</string>
+	<key>分享</key>
+	<string>Condivisione</string>
+	<key>取消点赞</key>
+	<string>“Mi piace&quot; Cancellato</string>
+	<key>保存成功</key>
+	<string>Salvato</string>
+</dict>
+</plist>

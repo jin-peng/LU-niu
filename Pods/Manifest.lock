@@ -1,0 +1,48 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - MJRefresh (3.1.17)
+  - SBJson (4.0.5)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - YRSideViewController (1.0.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - MJRefresh (~> 3.1.0)
+  - SBJson (~> 4.0.2)
+  - SDWebImage (~> 3.7.6)
+  - YRSideViewController (~> 1.0.6)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - MJRefresh
+    - SBJson
+    - SDWebImage
+    - YRSideViewController
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  MJRefresh: ee5b68f639775462faba4db0fd243baf4d42c2cf
+  SBJson: af3137ccda22be3004487524da0a071c75d4251b
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  YRSideViewController: 08a659ef4b2c1c32dc31d1d8ee46d6019de1363a
+
+PODFILE CHECKSUM: 9eb7b00d8ac6d7f8c00fb07e3900fc2783579efa
+
+COCOAPODS: 1.6.1
